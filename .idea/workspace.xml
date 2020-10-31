@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6c55f14-eceb-4b14-ba4b-c3eeb0d2054f" name="Default Changelist" comment="lol" />
+    <list default="true" id="a6c55f14-eceb-4b14-ba4b-c3eeb0d2054f" name="Default Changelist" comment="lol2">
+      <change afterPath="$PROJECT_DIR$/lol/lol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604180547584</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lol2">
+      <created>1604180890460</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604180890460</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,16 +104,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dgd" />
     <MESSAGE value="lol" />
-    <option name="LAST_COMMIT_MESSAGE" value="lol" />
+    <MESSAGE value="lol2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lol2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="743" y="259" width="424" height="486" key="FileChooserDialogImpl" timestamp="1604090557738">
       <screen x="0" y="27" width="1920" height="948" />
     </state>
     <state x="743" y="259" width="424" height="486" key="FileChooserDialogImpl/0.27.1920.948@0.27.1920.948" timestamp="1604090557738" />
-    <state x="555" y="237" width="800" height="530" key="Vcs.Push.Dialog.v2" timestamp="1604180552436">
+    <state x="555" y="237" width="800" height="530" key="Vcs.Push.Dialog.v2" timestamp="1604180894452">
       <screen x="0" y="27" width="1920" height="948" />
     </state>
-    <state x="555" y="237" width="800" height="530" key="Vcs.Push.Dialog.v2/0.27.1920.948@0.27.1920.948" timestamp="1604180552436" />
+    <state x="555" y="237" width="800" height="530" key="Vcs.Push.Dialog.v2/0.27.1920.948@0.27.1920.948" timestamp="1604180894452" />
   </component>
 </project>

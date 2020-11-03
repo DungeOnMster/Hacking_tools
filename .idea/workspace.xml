@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6c55f14-eceb-4b14-ba4b-c3eeb0d2054f" name="Default Changelist" comment="lol2">
-      <change afterPath="$PROJECT_DIR$/net_cut/net_cut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net_cut/dns_spoof.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arp_spoof/arp_spoof.py" beforeDir="false" afterPath="$PROJECT_DIR$/arp_spoof/arp_spoof.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lol/lol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/net_cut/net_cut.py" beforeDir="false" afterPath="$PROJECT_DIR$/net_cut/net_cut.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +111,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="lol2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="174" y="321" width="602" height="362" key="#Notifications" timestamp="1604412885741">
+      <screen x="0" y="27" width="1920" height="948" />
+    </state>
+    <state x="174" y="321" width="602" height="362" key="#Notifications/0.27.1920.948@0.27.1920.948" timestamp="1604412885741" />
+    <state x="381" y="361" width="188" height="281" key="#Vim_Emulation" timestamp="1604413061903">
+      <screen x="0" y="27" width="1920" height="948" />
+    </state>
+    <state x="381" y="361" width="188" height="281" key="#Vim_Emulation/0.27.1920.948@0.27.1920.948" timestamp="1604413061903" />
     <state x="743" y="259" width="424" height="486" key="FileChooserDialogImpl" timestamp="1604090557738">
       <screen x="0" y="27" width="1920" height="948" />
     </state>

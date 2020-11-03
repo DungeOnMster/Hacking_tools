@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6c55f14-eceb-4b14-ba4b-c3eeb0d2054f" name="Default Changelist" comment="lol2">
-      <change afterPath="$PROJECT_DIR$/lol/lol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net_cut/net_cut.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arp_spoof/arp_spoof.py" beforeDir="false" afterPath="$PROJECT_DIR$/arp_spoof/arp_spoof.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lol/lol.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

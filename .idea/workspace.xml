@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6c55f14-eceb-4b14-ba4b-c3eeb0d2054f" name="Default Changelist" comment="6 nov/2020">
+      <change afterPath="$PROJECT_DIR$/exec_command/exec_and_report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exec_command/exec_command.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code_injector/code_injector.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_injector/code_injector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packet_sniffer/pckt_sniffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/packet_sniffer/pckt_sniffer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

